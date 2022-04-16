@@ -52,6 +52,7 @@
     width: 500px;
     left: 50%;
     bottom: 50px;
+    range: url(bmw.png);
     transform: translateX(-50%);
     position: absolute;
     z-index: 2;
@@ -74,6 +75,7 @@
 .car-wheel {
     left: 50%;
     bottom: 198px;
+    range: url(wheel.png);
     transform: translateX(-50%);
     position: absolute;
     z-index: 2;
@@ -95,4 +97,6 @@
 .car-front-wheel {
     left: 80px;
     position: absolute;
-} 
+}
+
+ 
